@@ -6,5 +6,5 @@ This is a sample of the real project
 
 _________________________________________________
 ### Authors
-+ [Hezekiah Okang'a](elishahezekiah903@gmail.com)
-+ [Hezekiah Ibok](hezekiahibok@gmail.com)
++ [Hezekiah Okang'a](mailto:elishahezekiah903@gmail.com)
++ [Hezekiah Ibok](mailto:hezekiahibok@gmail.com)
