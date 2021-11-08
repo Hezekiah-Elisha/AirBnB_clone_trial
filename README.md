@@ -7,4 +7,4 @@ This is a sample of the real project
 _________________________________________________
 ### Authors
 Hezekiah Okang'a <elishahezekiah903@gmail.com>
-Hezekiah Ibok
+Hezekiah Ibok <hezekiahibok@gmail.com>
