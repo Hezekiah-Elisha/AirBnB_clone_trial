@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-import cmd, sys
+import cmd
+import sys
+
 
 class ConsoleShell(cmd.Cmd):
     intro = 'Welcome to the AirBnB clone. Type help or ? to list commands. \n'
@@ -10,7 +12,6 @@ class ConsoleShell(cmd.Cmd):
         'Check if it is End-Of-File: EOF'
         # something to be done here
         print('EOF')
-
 
     def do_quit(self, arg):
         'close the turtle window, and exit:  EXIT'
