@@ -21,9 +21,9 @@ This is a sample of the real project
 
 ### Description of the project
 ### Description of the command interpreter:
-        + how to start it
-        + how to use it
-        + examples
+    + how to start it
+    + how to use it
+    + examples
 
 
 _________________________________________________
